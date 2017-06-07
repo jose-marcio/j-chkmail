@@ -1,2 +1,3 @@
 # j-chkmail
-Email Filtering
+Email Filtering for sendmail/postfix using libmilter
+
